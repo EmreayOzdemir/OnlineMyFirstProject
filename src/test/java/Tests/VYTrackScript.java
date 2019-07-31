@@ -1,1 +1,2 @@
-public class vytrackScript()
+public class vytrackScript(){
+}
